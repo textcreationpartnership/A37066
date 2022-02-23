@@ -1,0 +1,190 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The effect of Master Dury's negotiation for the uniting of Protestants in a Gospell interest in brief is this</title>
+            <author>Dury, John, 1596-1680.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1657</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A37066</idno>
+            <idno type="STC">Wing D2857</idno>
+            <idno type="STC">ESTC R24916</idno>
+            <idno type="EEBO-CITATION">08690790</idno>
+            <idno type="OCLC">ocm 08690790</idno>
+            <idno type="VID">41544</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A37066)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 41544)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1258:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The effect of Master Dury's negotiation for the uniting of Protestants in a Gospell interest in brief is this</title>
+                  <author>Dury, John, 1596-1680.</author>
+               </titleStmt>
+               <extent>6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1657]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Christian union.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="summary_of_religious_negotiations">
+            <pb n="1" facs="tcp:41544:1" rendition="simple:additions"/>
+            <head>The effect of Maſter <hi>Dury's</hi> Negotia<g ref="char:EOLhyphen"/>tion for the uniting of Proteſtants in a Goſpell Intereſt in brief is this</head>
+            <p>
+               <seg rend="decorInit">T</seg>He aim of Maſter <hi>Dury's</hi> Negotiations hath been.</p>
+            <p>Firſt, to remove miſtakes and ſcanda<g ref="char:EOLhyphen"/>lous debates from among Proteſtants, from whence their Diviſions did ariſe, and by which they have been hitherto fomented.</p>
+            <p>Then alſo to bring their minds and af<g ref="char:EOLhyphen"/>fections by the acknowledgment of the ſame fundamentalls of true faith, whereunto they are come; to the obſervation of the ſame Rules of obedience, by a peaceable walking in the duties of Chriſtian moderation, and Charitable forbear<g ref="char:EOLhyphen"/>ance of each other in the things extra-fundamentall, where<g ref="char:EOLhyphen"/>unto they are not come as yet.</p>
+            <p>To attain this aim he hath put himſelf upon the work of ſtudying the ways, and ſolliciting the Counſells of Chriſti<g ref="char:EOLhyphen"/>an amitie and mutuall edification in Truth and Peace, and hath negotiated with all the Churches and the eminent men therein, to gain their aſſent to thoſe ways and counſels under the countenance and with the permiſſion of the civill autho<g ref="char:EOLhyphen"/>rity. To which Negotiation he hath twice applied himſelf in two Periods of undertaking the work.</p>
+            <p>
+               <hi>In the firſt Period, from the year</hi> 1628. <hi>till</hi> 1641 <hi>hee dealt with the chief leading men of both parties, and with ſone of their aſſemblies in theſe following places.</hi> viz.</p>
+            <pb n="2" facs="tcp:41544:2"/>
+            <p> In <hi>Pruſſia,</hi> at <hi>Dantzick</hi> and at <hi>Elbing;</hi> with the Miniſter and Profeſſors of the School.</p>
+            <p>In <hi>England</hi> with the godly learned Non-conformiſt Mini<g ref="char:EOLhyphen"/>ſters, ſuch as were Mr. <hi>Cotton,</hi> Mr. <hi>White,</hi> Mr. <hi>Davenport,</hi> Mr. <hi>Nye,</hi> and others; with the beſt of the Biſhops, ſuch as were Dr. <hi>Davenant,</hi> Dr. <hi>Hall,</hi> Dr. <hi>Morton,</hi> and others; with the beſt of the Prelaticall men, ſuch as were Mr. <hi>Mede,</hi> Dr. <hi>Fealtly,</hi> and others</p>
+            <p>In <hi>Scotland,</hi> with the Univerſity of <hi>Aberdene,</hi> with the Mi<g ref="char:EOLhyphen"/>niſtry of <hi>Edinburg,</hi> with the Scots Commiſſioners from time to time ſent into <hi>England,</hi> and with the generall Aſſembly held at <hi>Edinburg.</hi>
+            </p>
+            <p>In <hi>Ireland,</hi> with the Biſhop of <hi>Armach,</hi> the Biſhop of <hi>Kil<g ref="char:EOLhyphen"/>more,</hi> and the Biſhop of <hi>Ardack.</hi>
+            </p>
+            <p>In the <hi>Low-Countries,</hi> with the Synods of <hi>South</hi> and <hi>North-Holland,</hi> and their Deputies when the Synods were not met; with the Synod of <hi>Utrecht,</hi> with the Synod of the French Churches; with the <hi>Coetus</hi> and <hi>Claſſis of Zealand;</hi> and with the Univerſity of <hi>Leyden,</hi> and leading men of thoſe parts; ſuch as were <hi>Bogermannus, Feſtus Hommius, de Dieu,</hi> and others.</p>
+            <p>In <hi>Germany,</hi> with King <hi>Guſtavus of Sweden at Wirtzburg,</hi> and his Divines, who then were with him; with the Divines of <hi>Heſſen</hi> at <hi>Caſſell;</hi> with thoſe of <hi>Hannaw,</hi> of the Palatinat, of <hi>Deux-pont,</hi> of <hi>Anhalt,</hi> of the <hi>Wetteraw</hi> and of <hi>Herborn;</hi> with thoſe of the Aſſemby at <hi>Heilborn;</hi> with the Miniſters at <hi>Franck fort</hi> and at <hi>Mentz,</hi> (which then was under the <hi>Swediſh</hi> juriſdiction) with the Univerſities of <hi>Helmſtat,</hi> of <hi>Jena,</hi> of <hi>Leipſick</hi> and of <hi>Strasburg;</hi> with the Miniſters of <hi>Nuremburg,</hi> of <hi>Brunſwick</hi> of <hi>Hildeſheim,</hi> of <hi>Zell,</hi> of <hi>Hamburg,</hi> of <hi>Bremen,</hi> of <hi>Lunenburg,</hi> of <hi>Lubeck,</hi> of <hi>Stade,</hi> and other neighbouring parts, and with the Proteſtant States aſſembled at <hi>Franck<g ref="char:EOLhyphen"/>fort.</hi>
+            </p>
+            <p>In <hi>Switzerland,</hi> with the <hi>Antiſtes of Zurich,</hi> who in the name of all the other Churches, and with their foreknowledg gave advice.</p>
+            <p>In <hi>France</hi> with the Miniſtery of <hi>Paris,</hi> of <hi>Mets,</hi> of <hi>Sedan</hi> and of <hi>Geneva.</hi>
+            </p>
+            <p>In <hi>Sweden,</hi> with the Miniſtrie of <hi>Stockholm,</hi> with the Divi<g ref="char:EOLhyphen"/>ny
+<pb n="3" facs="tcp:41544:2"/>Profeſſors of the <hi>Academy</hi> of <hi>Upſall,</hi> with the Colledge of <hi>Weſteroſe,</hi> with the Colledge of <hi>Stregnes,</hi> and with the Synod held at <hi>Stockholm.</hi>
+            </p>
+            <p>In <hi>Denmark,</hi> with the Divinity Profeſſors of <hi>Coppenhagen,</hi> and with the King of <hi>Denmark</hi> his Chaplain at <hi>Gluck<g ref="char:EOLhyphen"/>ſtadt.</hi>
+            </p>
+            <p>In <hi>Poland,</hi> with the Miniſtry of <hi>Vilna in Lithuania,</hi> with the brethren of the unity of <hi>Bohemia</hi> at <hi>Leſna,</hi> with the Synod of the leſſer <hi>Polonia</hi> at <hi>Oxa,</hi> and with the Proteſtant <hi>Poliſh</hi> States at their Parlament.</p>
+            <p>In <hi>Tranſſylvania,</hi> with the generall Synod of thoſe parts, wherein all the caſes of conſcience incident to the whole work were largely reſolved.</p>
+            <p>
+               <hi>From the year</hi> 1641. <hi>till</hi> 1654. <hi>the troubles of England ob<g ref="char:EOLhyphen"/>liged Maſter <hi>Dury</hi> to ſtudy for Peace and Unity at home.</hi>
+            </p>
+            <p>
+               <hi>In the ſecond Period of his Negotiation abroad, from the year</hi> 1654. <hi>till</hi> 1657. <hi>he dealt to gain concurrence and aſſent to his proceedings.</hi>
+            </p>
+            <p>In <hi>England,</hi> with the chief Divines of both Univerſities, and with the leading Miniſters in and about <hi>London.</hi>
+            </p>
+            <p>In <hi>Switſerland</hi> with all the Reformed <hi>Cantons,</hi> and their confederates, <hi>Zurick, Berne, Glaris, Baſell, Scaphuſen, Appenzel. Saint Gall, Biel, Neuſtat, Geneva, Lauſanna, Mulhuſen, Neuſ<g ref="char:EOLhyphen"/>chaſtel,</hi> and the <hi>Griſons.</hi>
+            </p>
+            <p>In <hi>Germany,</hi> with the chief Counſellours of the Duke of <hi>Wirtemberg;</hi> with the Agent and chief Divines of the Elector <hi>Palatin,</hi> whom he appointed to entertain the Negotiation, with the Miniſtry of the County of <hi>Hannaw,</hi> with thoſe of <hi>Franckfort,</hi> with the Churches of <hi>Wetteraw</hi> in the Counties of <hi>Iſenburg</hi> and <hi>Budingen,</hi> of <hi>Solms</hi> and <hi>Witgenſtein;</hi> in the Prin<g ref="char:EOLhyphen"/>cipalities <hi>of Naſſaw at Herborn, at Dillenberg, at Sigen,</hi> and at <hi>Diets.</hi> With thoſe of the upper <hi>Heſſen</hi> at <hi>Marpurg;</hi> and with thoſe of the lower <hi>Heſſen</hi> at <hi>Caſſell.</hi> With thoſe of <hi>Anbalt</hi> at <hi>Deſſaw,</hi> at <hi>Koethen,</hi> at <hi>Berenburg</hi> and at <hi>Pletzkow.</hi> With thoſe of Saxonie, at <hi>Weimar,</hi> at <hi>Gotha</hi> and at <hi>Iſennack;</hi> with thoſe
+<pb n="4" facs="tcp:41544:3"/>of <hi>Brunſwick</hi> at <hi>Minden,</hi> with thoſe of the County of <hi>Schaum<g ref="char:EOLhyphen"/>burg</hi> at the <hi>Academy of Rintelen,</hi> with thoſe of the County of the <hi>Lippe</hi> at <hi>Detmold,</hi> with thoſe of the County of <hi>Benthem,</hi> at <hi>Teclenburg,</hi> at <hi>Benthem</hi> and at <hi>Steinfurt;</hi> with thoſe of <hi>Embden,</hi> with thoſe of <hi>Bremen;</hi> and with the generall Synod of the Dukedoms of <hi>Gulick, Cleve, Berg</hi> and the March held at <hi>Duysburg;</hi> and with the Councell of State of the Elector of <hi>Brandenburg</hi> ruling in <hi>Cleve.</hi>
+            </p>
+            <p>In the <hi>Low-Countries</hi> with the Synod of <hi>South-holland</hi> held at <hi>Dort,</hi> with the Synod of <hi>Gelderland</hi> held at <hi>Harderwick;</hi> with the Synod of <hi>North-holland</hi> held at <hi>Alckmaer:</hi> with the Synod of the Province of <hi>Utrecht</hi> held at <hi>Utrecht;</hi> with the Synod of the French Churches held at <hi>Middelburg;</hi> with the <hi>Claſſis</hi> of <hi>Walcheren,</hi> and the other <hi>Claſſes</hi> of <hi>Zealand:</hi> with the Divinitie Profeſſors of the <hi>Academies</hi> of <hi>Leyden Utrecht, Franeker, Groning</hi> &amp; <hi>Duysburg,</hi> with the general States of the united Provinces; with the States of <hi>Zealand</hi> at their Provinciall meeting, with the Deputies of the States of <hi>Utrecht:</hi> with the States of <hi>Holland</hi> at their Provinciall mee<g ref="char:EOLhyphen"/>ting, w<hi rend="sup">th</hi> the Deputies of States of <hi>Frieſland,</hi> with the Deputies of the States of <hi>Groning;</hi> with the Deputies of the Cities of <hi>Overyſſell, Deventer, Campen, Swoll.</hi> With the Senate of the Court of <hi>Gelderland:</hi> with the Miniſtry of <hi>Amſterdam;</hi> and with Prince <hi>Adolf</hi> the King of <hi>Swedens</hi> brother, being at <hi>Am<g ref="char:EOLhyphen"/>ſterdam,</hi> with all theſe except onely the two Synods of <hi>Hol<g ref="char:EOLhyphen"/>land,</hi> (whereof the one had no time to conſider the buſineſſe, and by the other it was referred to the civill Magiſtrates di<g ref="char:EOLhyphen"/>rectory) there are correſpondents appointed to entertain with Maſter <hi>Dury</hi> the proſecution of the work upon the grounds laid in this laſt <hi>Period</hi> of the Negotiation, So that from hence forth it wil lye upon us to ſee that theſe proceed<g ref="char:EOLhyphen"/>ings bee not interrupted, if we will anſwer our publick pro<g ref="char:EOLhyphen"/>feſſions and ſolemn engagements, for the advancement of the Proteſtant Religious intereſt againſt the adverſaries thereof.</p>
+            <p>Which the Repreſentatives of this Nation, and the godly party therein by Pole hath obliged it ſelf unto, before God and the whole Chriſtian world; in three ſeverall Decla<g ref="char:EOLhyphen"/>rations.</p>
+            <pb n="5" facs="tcp:41544:3"/>
+            <p> Firſt in the Remonſtrance of the State of the King<g ref="char:EOLhyphen"/>dom, publiſhed by the Parlament in the year 1641. where the words in the cloſe thereof are theſe:</p>
+            <p>
+               <hi>Wee will labour by all offices of friendſhip, to unite the forreign Churches with us in the ſame cauſe: and to ſeek their liberty, ſafety, and proſperity, as bound thereunto by charity unto them and by wifedom for our own good: for by this means our ſtrength ſhall bee increaſed; and by a mutuall concurrence to the ſame common end we ſhall bee able to procure the good of the whole body of the Pro<g ref="char:EOLhyphen"/>teſtant profeſſion.</hi>
+            </p>
+            <p>Secondly, in the Nationall League and Covenant, the Godly party which hath entred thereinto, doth in a moſt ſolemn manner declare, that our affectionate deſire is:</p>
+            <p>
+               <hi>That the ſucceſs of our proceedings may bee delive<g ref="char:EOLhyphen"/>rance and ſafetie to all Gods people, and encourage<g ref="char:EOLhyphen"/>ment to other Chriſtian Churches, groaning under and in danger of the yoak of Antichriſtian Tyranny, to join with us in the ſame or like aſſociation and covenant, to the glo<g ref="char:EOLhyphen"/>ry of God, the enlargement of the Kingdom of Chriſt, and the Peace and tranquility of Chriſtian Kingdoms and Common-wealths.</hi>
+            </p>
+            <p>Thirdly, in the Parlament held in the year 1653. the Declaration publiſhed the 12 of <hi>July</hi> is full of this deſign:</p>
+            <p>For being addreſſed</p>
+            <p>
+               <hi>To all Gods people, aſwell in neighbour Nations, as in this.</hi>
+            </p>
+            <pb n="6" facs="tcp:41544:4"/>
+            <p> And expreſſing, <hi>A great expectation of the breaking forth of the Kingdom of Christ in all the Earth.</hi>
+            </p>
+            <p>They manifeſt their faith and hope concerning this buſineſſe by theſe words:</p>
+            <p>
+               <hi>That God will not ſuffer his people here to deal faſly with him in his cauſe, till hee hath accomplſhed his great work, and brought about his great ends</hi>
+            </p>
+            <p>Whereupon their earneſt praier is put up unto him:</p>
+            <p>
+               <hi>That God would unite their hearts unto himſelf, that they may bee one among themſelvs, and with all the people of God who are members of the body of Chriſt; and that they may bee fitted and uſed as Inſtruments in the hand of God; for a more full and clear revealing of the Lord Jeſus, and a right promulgation of the bleſſed Goſpell, and the true intereſt of his Kingdom, and the advance thereof, that oppreſſing yoaks may bee broken, and all burthens removed: that his Tabernacle may be fully raiſed up; and his Temple built by his Spirit, that all his people may have one lip, one heart, one conſent, one ſhoulder to bow down &amp; worſhip him; that the envie of</hi> Judah <hi>and</hi> Ephraim <hi>may bee taken away; that they may be one, in one fold, with one ſhepherd; that the ſwords and ſpears may be turned into plough-ſhares and pruning hooks, and the Earth fil<g ref="char:EOLhyphen"/>led with the knowledg of the Lord, as the waters cover the Sea</hi>
+            </p>
+            <p>Now where ſo many ſolemn Engagements and Reſoluti<g ref="char:EOLhyphen"/>ons are taken up and made known; as matters of conſcience to be proſecuted in the cauſe of God, there certainly God will expect ſome reall endeavours for a performance, chiefly then when the opportunity is ſo fairly offered as now it is, and not onely ſo, but when wee are called upon to imbrace it as now wee are.</p>
+         </div>
+         <div type="epigraph">
+            <pb facs="tcp:41544:4"/>
+            <head>Sir <hi>Edwin Sands</hi> in his Book called <hi>Europae Speculum,</hi> or a view of the State of Religion in the <hi>Weſtern</hi> parts of the World. <hi>Pag.</hi> 183.</head>
+            <p>THe end (of theſe unhappy differences in Religion, between the Reformed, and <hi>Lu<g ref="char:EOLhyphen"/>theran</hi> Proteſtants) will be, that their enemies ſhall laugh, when themſelves ſhall have cauſe to weep, unleſs the graciouſneſs of God, ſtir up ſom worthy Princes of renown, and reputation with both the ſides, to enterpoſe their wifedom, indu<g ref="char:EOLhyphen"/>ſtry and authority, for the uniting theſe factions, or at leaſtwiſe for reconciling, and compoſing thoſe differences in ſome tolerable ſort: a work of immortall fame, and deſert, and worthy of none other, but of them, of whom this wicked baſe World is not worthy.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
